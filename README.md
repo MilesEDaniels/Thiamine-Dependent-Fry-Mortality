@@ -20,8 +20,8 @@ _Table 1: Risk categories for Thiamine-Dependent Fry Mortality based on egg thia
 | Risk Category  | Thiamine Concentration (nmol g 	<sup> -1 </sup> )|
 |  :---:       |     :---:      |       
 | severely impacted | < 2.7 |
-| impacted  | > 2.7 - < 5. 9  |
-| likely impacted  | > 5.9 - 7.7  |
+| impacted  | 2.7 - < 5. 9  |
+| likely impacted  | 5.9 - 7.7  |
 | unlikely impacted  | > 7.7  |
 ---
 
