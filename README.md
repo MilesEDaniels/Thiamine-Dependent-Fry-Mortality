@@ -12,26 +12,26 @@ We used a 4-parameter sigmoid dose-response model to represent the fry survival 
  
 Where: _Y_ is fry survival (proportion); _U_ and _L_ are the upper and lower limits of survival (proportion), respectively; _C_ is the observed thiamine concentration (nmol g <sup> -1 </sup>); _EC50_ is the thiamine concentration at which the proportion of survival is estimated to be 1/2 of U and S is the slope of the relationship.
 
-Results from the dose-response model were used to generat the risk categores below based on EC50, EC90, and EC95. 
+Results from the dose-response model were used to generate the risk categories below based on EC50, EC90, and EC95. 
 
 ---
 
-_Table 1: Risk categories for Thiamine-Dependent Fry Mortality based on egg thimaine concentration._
+_Table 1: Risk categories for Thiamine-Dependent Fry Mortality based on egg thiamine concentration._
 | Risk Category  | Thiamine Concentration (nmol g 	<sup> -1 </sup> )|
 |  :---:       |     :---:      |       
 | severely impacted | < 2.7 |
-| imapcted  | > 2.7 - < 5. 9  |
+| impacted  | > 2.7 - < 5. 9  |
 | likely impacted  | > 5.9 - 7.7  |
 | unlikely impacted  | > 7.7  |
 ---
 
 ### Results:
 
-Below are results for estimating TDFM for years 2020 to 2024. For each year two separate plots are generarted. 
+Below are results for estimating TDFM for years 2020 to 2024. For each year two separate plots are generated. 
 
-In the upper plot is a a pie chart that shows the percentage of eggs that were estimated to be below 8 nmol g <sup> -1 </sup> and therefore expected to have some level of impact. Next to the pie chart is the distribuiton of egg thiamine concentrations from samples collected at the Livingston Stone National Fish Hatchery. The X-axis is the concentration of thamine (nmol g <sup> -1 </sup>) and each dot represents an egg sample that is color coded to the risk category defined in Table 1. The shaded region is used to aid the reader in viewing the distubutons of each the sample set. Additionally, the different risk categories are shown with color coded dashed lines.
+In the upper plot is a a pie chart that shows the percentage of eggs that were estimated to be below 8 nmol g <sup> -1 </sup> and therefore expected to have some level of impact. Next to the pie chart is the distribution of egg thiamine concentrations from samples collected at the Livingston Stone National Fish Hatchery. The X-axis is the concentration of thiamine (nmol g <sup> -1 </sup>) and each dot represents an egg sample that is color coded to the risk category defined in Table 1. The shaded region is used to aid the reader in viewing the distribution of each the sample set. Additionally, the different risk categories are shown with color coded dashed lines.
 
-In the lower plot is a a pie chart that shows the mean estimate of Thiamine-Dependent Fry Mortality (TDFM) as well as the 95% credible estimate. Next to the pie chart is the distribuiton of TDFM estimates generated from the 10,000 simulations which is used to estimate the mean and 95% credible estimate. 
+In the lower plot is a a pie chart that shows the mean estimate of Thiamine-Dependent Fry Mortality (TDFM) as well as the 95% credible estimate. Next to the pie chart is the distribution of TDFM estimates generated from the 10,000 simulations which is used to estimate the mean and 95% credible estimate. 
 
 
 ![plot](WR_TDFM_2020.png)
