@@ -33,6 +33,7 @@ In the upper plot is a a pie chart that shows the percentage of eggs that were e
 
 In the lower plot is a a pie chart that shows the mean estimate of Thiamine-Dependent Fry Mortality (TDFM) as well as the 95% credible estimate. Next to the pie chart is the distribution of TDFM estimates generated from the 10,000 simulations which is used to estimate the mean and 95% credible estimate. 
 
+---
 
 ![plot](WR_TDFM_2020.png)
 
