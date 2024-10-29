@@ -1,4 +1,4 @@
-# Estimates of Thiamine-dependent fry mortality
+# Estimates of Thiamine-Dependent Fry Mortality
 Estimates of thiamine-dependent fry mortality for winter-run Chinook salmon
 
 Last updated 10/29/2024, Miles Daniels (miles.daniels@noaa.gov)
