@@ -32,11 +32,11 @@ Below are results for estimating TDFM for years 2020 to 2024.
 _Table 2: Estimated Thiamine-Dependent Fry Mortality by year._
 | Year  | TDFM (Mean %)| TDFM (5th %) | TDFM (95th %) |
 |  :---:  |  :---: |    :---:   |  :---: |       
-| 2020 | 26 | 17 | 37 |
-| 2021 | 48 | 35 | 61 |
-| 2022 | 51 | 38 | 65 |
-| 2023 | 51 | 36 | 68 |
-| 2024 | 49 | 35 | 63 |
+| 2020 | 27 | 21 | 32 |
+| 2021 | 48 | 41 | 55 |
+| 2022 | 51 | 44 | 58 |
+| 2023 | 51 | 44 | 58 |
+| 2024 | 49 | 42 | 55 |
 
 Separate plots are also shown below for each year.
 
