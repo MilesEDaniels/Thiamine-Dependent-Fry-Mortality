@@ -10,7 +10,7 @@ We used a 4-parameter sigmoid dose-response model to represent the fry survival 
 
  $$ Y = U+\frac{L-U}{1+(\frac{C}{EC50})^S}$$
  
-Where: **_Y_** is fry survival (proportion); **_U_** and **_L_** are the upper and lower limits of survival (proportion), respectively; **_C_** is the observed thiamine concentration (nmol g <sup> -1 </sup>); **_EC50_** is the thiamine concentration at which the proportion of survival is estimated to be 1/2 of **_U_**, and **_S_** is the slope of the relationship.
+Where: **_Y_** is fry survival (proportion); **_U_** and **_L_** are the upper and lower limits of survival (proportion), respectively; **_C_** is the observed thiamine concentration (nmol g <sup> -1 </sup>); **_EC50_** is the thiamine concentration at which the proportion of survival is estimated to be 1/2 of **_U_**; and **_S_** is the slope of the relationship.
 
 Results from the dose-response model were used to generate the risk categories below based on EC50, EC90, and EC95. 
 
