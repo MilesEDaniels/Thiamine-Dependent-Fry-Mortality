@@ -10,13 +10,13 @@ We used a 4-parameter sigmoid dose-response model to represent the fry survival 
 
  $$ Y = U+\frac{L-U}{1+(\frac{C}{EC50})^S}$$
  
-Where: Y is fry survival (proportion); U and L are the upper and lower limits of survival (proportion), respectively; C is the observed thiamine concentration (nmol g <sup> -1 </sup>); EC50 is the thiamine concentration at which the proportion of survival is estimated to be 1/2 of U and S is the slope of the relationship.
+Where: _Y_ is fry survival (proportion); _U_ and _L_ are the upper and lower limits of survival (proportion), respectively; _C_ is the observed thiamine concentration (nmol g <sup> -1 </sup>); _EC50_ is the thiamine concentration at which the proportion of survival is estimated to be 1/2 of U and S is the slope of the relationship.
 
 Results from the dose-response model were used to generat the risk categores below based on EC50, EC90, and EC95. 
 
 ---
 
-_Table 1: Risk categies for Thiamine-Dependent Fry Mortality based on egg thimaine concentration._
+_Table 1: Risk categories for Thiamine-Dependent Fry Mortality based on egg thimaine concentration._
 | Risk Category  | Thiamine Concentration (nmol g 	<sup> -1 </sup> )|
 |  :---:       |     :---:      |       
 | severely impacted | < 2.7 |
@@ -35,14 +35,23 @@ In the lower plot is a a pie chart that shows the mean estimate of Thiamine-Depe
 
 
 ![plot](WR_TDFM_2020.png)
+
 ---
+
 ![plot](WR_TDFM_2021.png)
+
 ---
+
 ![plot](WR_TDFM_2022.png)
+
 ---
+
 ![plot](WR_TDFM_2023.png)
+
 ---
+
 ![plot](WR_TDFM_2024.png)
 
+---
 
 
