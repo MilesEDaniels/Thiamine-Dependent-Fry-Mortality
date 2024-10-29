@@ -19,8 +19,8 @@ Results from the dose-response model were used to generat the risk categores bel
 _Table 1: Risk categies for Thiamine-Dependent Fry Mortality based on egg thimaine concentration._
 | Risk Category  | Thiamine Concentration (nmol g 	<sup> -1 </sup> )|
 | ------------- | ------------- |
-| severely impacted  | < 2.7 |
-| impacted  | > 2.7 - < 5. 9  |
+| severely impacted | < 2.7 |
+| imapcted  | > 2.7 - < 5. 9  |
 | likely impacted  | > 5.9 - 7.7  |
 | unlikely impacted  | > 7.7  |
 
