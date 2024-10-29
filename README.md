@@ -1,7 +1,7 @@
 # Estimates of Thiamine-dependent fry mortality
 Estimates of thiamine-dependent fry mortality for winter-run Chinook salmon
 
-Last updated 10/29/2024, Miles Daniels (miedanie@ucsc.edu)
+Last updated 10/29/2024, Miles Daniels (miles.daniels@noaa.gov)
 
 ### Methods: 
 To estimate Thiamine-Dependent Fry Mortality (TDFM) in naturally spawning Chinook Salmon, we used a two-step simulation-based approach. First, we developed a dose-response model based on laboratory data linking egg thiamine concentration to fry survival. Next, we applied this model to egg thiamine concentrations measured during hatchery sampling, assuming that these samples represent natural spawning populations in the same watershed. The dose-response model, built within a Bayesian framework, describes fry survival as a function of egg thiamine concentration. The model was simplified to fit key parameters, including survival limits and thiamine sensitivity (EC50). To estimate TDFM in hatchery or wild populations, thiamine concentrations were randomly resampled 1,000 times, and survival predictions were generated with corresponding uncertainty. All analyses were conducted in R using the RJAGS package, with results reported as survival percentages across multiple brood years.
@@ -32,12 +32,16 @@ In the upper plot is a a pie chart that shows the percentage of eggs that were e
 
 In the lower plot is a a pie chart that shows the mean estimate of Thiamine-Dependent Fry Mortality (TDFM) as well as the 95% credible estimate. Next to the pie chart is the distribuiton of TDFM estimates generated from the 1,000 simulations which is used to estimate the mean and 95% credible estimate. 
 
-### Brood Year 2021:
 
-### Brood Year 2022:
+![plot](WR_TDFM_2020.png)
+---
+![plot](WR_TDFM_2021.png)
+---
+![plot](WR_TDFM_2022.png)
+---
+![plot](WR_TDFM_2023.png)
+---
+![plot](WR_TDFM_2024.png)
 
-### Brood Year 2023:
-
-### Brood Year 2024:
 
 
