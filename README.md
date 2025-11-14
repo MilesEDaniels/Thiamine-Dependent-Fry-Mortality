@@ -32,14 +32,14 @@ Below are results for estimating TDFM for years 2020 to 2024.
 _Table 2: Estimated Thiamine-Dependent Fry Mortality by year._
 | Year  | TDFM (Mean %)| TDFM (5th %) | TDFM (95th %) |
 |  :---:  |  :---: |    :---:   |  :---: |       
-| 2020 | 27 | 21 | 32 |
-| 2021 | 48 | 41 | 55 |
-| 2022 | 51 | 44 | 58 |
-| 2023 | 51 | 44 | 58 |
+| 2025 | 36 | 32 | 40 |
 | 2024 | 49 | 42 | 55 |
-| 2024 | 36 | 32 | 40 |
+| 2023 | 51 | 44 | 58 |
+| 2022 | 51 | 44 | 58 |
+| 2021 | 48 | 41 | 55 |
+| 2020 | 27 | 21 | 32 |
 
-Separate plots are also shown below for each year.
+Separate plots are also shown below for each year starting with the most current.
 
 In the upper plot is a a pie chart that shows the percentage of eggs that were estimated to be below 8 nmol g <sup> -1 </sup> and therefore expected to have some level of impact. Next to the pie chart is the distribution of egg thiamine concentrations from samples collected at the Livingston Stone National Fish Hatchery. The X-axis is the concentration of thiamine (nmol g <sup> -1 </sup>) and each dot represents an egg sample that is color coded to the risk category defined in Table 1. The shaded region is used to aid the reader in viewing the distribution of each the sample set. Additionally, the different risk categories are shown with color coded dashed lines.
 
@@ -47,19 +47,7 @@ In the lower plot is a a pie chart that shows the mean estimate of Thiamine-Depe
 
 ---
 
-![plot](WR_TDFM_2020.png)
-
----
-
-![plot](WR_TDFM_2021.png)
-
----
-
-![plot](WR_TDFM_2022.png)
-
----
-
-![plot](WR_TDFM_2023.png)
+![plot](WR_TDFM_2025.png)
 
 ---
 
@@ -67,4 +55,19 @@ In the lower plot is a a pie chart that shows the mean estimate of Thiamine-Depe
 
 ---
 
+![plot](WR_TDFM_2023.png)
+
+---
+
+![plot](WR_TDFM_2022.png)
+
+---
+
+![plot](WR_TDFM_2021.png)
+
+---
+
+![plot](WR_TDFM_2020.png)
+
+---
 
